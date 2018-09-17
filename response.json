@@ -1,7 +1,7 @@
 [
   {
     "query" : "hello",
-    "response" :  ["Hello!", "Hey!"],
+    "response" :  ["Hello!", "Hey!", "Hiya!"],
     "authResponse" : ["Hello {name}!", "Hey {name}!"],
     "image" : null
   },
