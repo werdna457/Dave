@@ -1,0 +1,38 @@
+[
+  {
+    "query" : "hello",
+    "response" :  ["Hello!", "Hey!"],
+    "authResponse" : ["Hello {name}!", "Hey {name}!"],
+    "image" : null
+  },
+  {
+    "query" : "how are you",
+    "response" :  ["I am well thank you!", "I am great!"],
+    "authResponse" : ["I am great! Thanks for asking {name}!", "I am feeling awesome, {name}!"],
+    "image" : null
+  },
+  {
+    "query" : "time",
+    "response" :  ["The time is now {time}", "It is now {time}"],
+    "authResponse" : ["It is now {time}, {name}.", "The time is {time}, {name}."],
+    "image" : null
+  },
+  {
+    "query" : "users name",
+    "response" :  ["You are not logged in, so I am unsure.", "I am unsure, as you have not logged in."],
+    "authResponse" : ["Great to see you again, {name}", "You're {name} or at least that is what you told me."],
+    "image" : null
+  },
+  {
+    "query" : "daves name",
+    "response" :  ["I am Dave, great to meet you!", "I am Dave, but you can call me Dave."],
+    "authResponse" : ["My name is Dave, nice to meet you {name}.", "{name}, My name is Dave."],
+    "image" : null
+  },
+  {
+    "query" : "help",
+    "response" :  ["Please refer to my user guide for more information."],
+    "authResponse" : ["{name}, please refer to my user guide for more information."],
+    "image" : null
+  }
+]
