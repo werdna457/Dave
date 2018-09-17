@@ -1,0 +1,58 @@
+[
+  {
+    "query" : "hello*",
+    "response" : "hello"
+  },
+  {
+    "query" : "hi*",
+    "response" : "hello"
+  },
+  {
+    "query" : "howdy*",
+    "response" : "hello"
+  },
+  {
+    "query" : "good morning*",
+    "response" : "hello"
+  },
+  {
+    "query" : "good day*",
+    "response" : "hello"
+  },
+  {
+    "query" : "hey*",
+    "response" : "hello"
+  },
+  {
+    "query" : "*how are *",
+    "response" : "how are you"
+  },
+  {
+    "query" : "*time*",
+    "response" : "time"
+  },
+  {
+    "query" : "*my name*",
+    "response" : "users name"
+  },
+  {
+    "query" : "*who am i*",
+    "response" : "users name"
+  },
+  {
+    "query" : "*who are you*",
+    "response" : "daves name"
+  },
+  {
+    "query" : "*your name*",
+    "response" : "daves name"
+  },
+   {
+    "query" : "*help*",
+    "response" : "help"
+  },
+   {
+    "query" : "*rap*",
+    "response" : "rap"
+  }  
+]
